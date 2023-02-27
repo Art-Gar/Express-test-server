@@ -1,0 +1,22 @@
+{
+    "members": [
+      {
+        "id": "1262b832-aaca-441e-8c91-b315bd7b02e9",
+        "name": "John Doe",
+        "email": "john@gmail.com",
+        "status": "active"
+      },
+      {
+        "id": "bd04ef2f-5b41-4aea-ae63-c9fdd2d9ac7a",
+        "name": "Bob Smith",
+        "email": "bob@gmail.com",
+        "status": "inactive"
+      },
+      {
+        "id": "85cca31e-ea29-483f-8bbc-8f516d1c7768",
+        "name": "Sarah Williams",
+        "email": "sarah@gmail.com",
+        "status": "active"
+      }
+    ]
+  }
